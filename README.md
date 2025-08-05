@@ -1,16 +1,52 @@
-# hackth
+# 🧠 Ritual
 
-A new Flutter project.
+## 📌 Overview
+Ritual is a mental wellness app meant to make your day just a little bit brighter. Check in once a day for a few minutes and complete a task that will elevate your mood and improve your mental health. It's not a chore or an assignment, just a ritual!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ✅ Daily mood-lifting tasks
+- ✅ Streaks for motivation
+- ✅ Aesthetic interface and intuitive usage
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Area            | Stack/Tools                                   |
+|-----------------|-----------------------------------------------|
+| Backend         | Dart                                          |
+| Frontend        | Flutter, GetX                                 |
+| State Mngmnt    | GetStorage                                    |
+| Other Tools     | Git, Figma                                    |
+
+---
+
+## 📷 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="task.png" width="250" alt="Task screenshot" /><br/>
+    </td>
+    <td align="center">
+      <img src="breathe.png" width="250" alt="Breathe screenshot" /><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧪 How to Run Locally
+
+```bash
+# Clone repo
+git clone https://github.com/IshanA2007/Ritual.git
+cd ritual
+
+# Get Flutter packages
+flutter pub get
+
+# Run the app
+flutter run
